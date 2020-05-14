@@ -31,5 +31,6 @@ public class OrderModelAssembler implements RepresentationModelAssembler<Order, 
         }
 
         return orderModel;
+    }
 
 }
